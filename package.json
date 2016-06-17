@@ -1,6 +1,6 @@
 {
   "name": "html-min",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "html mim",
   "bin":{
     "html-min":"./bin/cli.js"
