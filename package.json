@@ -1,0 +1,22 @@
+{
+  "name": "html-min",
+  "version": "0.0.2",
+  "description": "html mim",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-mi/html-min.git"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "Julian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/js-mi/html-min/issues"
+  },
+  "homepage": "https://github.com/js-mi/html-min#readme"
+}
